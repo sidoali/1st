@@ -1,1 +1,1 @@
-# 1st
+# 1st uploaded exercise with switch in java 
